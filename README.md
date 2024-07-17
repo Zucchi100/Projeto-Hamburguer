@@ -12,6 +12,6 @@
 <div align="center">
   
   <p>Clique no Hamburguer para acessar o Deploy:</p>
-<a href="https://hamburgueriazucchi.netlify.app/" target="_blank"><img width= "100" src="https://s2.glbimg.com/IaEnP49buSdSUDftlMxVrq3-ZDo=/940x523/e.glbimg.com/og/ed/f/original/2019/04/26/loucosporti1.jpg"></a>
+<a href="https://burguerkinggg.netlify.app/" target="_blank"><img width= "100" src="https://s2.glbimg.com/IaEnP49buSdSUDftlMxVrq3-ZDo=/940x523/e.glbimg.com/og/ed/f/original/2019/04/26/loucosporti1.jpg"></a>
 </div>
 
